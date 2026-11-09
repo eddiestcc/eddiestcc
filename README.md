@@ -26,7 +26,7 @@ Outside of cybersecurity, I enjoy:
 
 ## Get in Touch
 
-- **Portfolio:** [My Portfolio](https://eddiestcc.github.io/eddiemolina-portfolio/)
+- **Portfolio:** [My Portfolio](https://eddiemolina.github.io/eddiemolina-portfolio/)
 - **LinkedIn:** www.linkedin.com/in/molina-eddie
 - **Email:** premier_havens1o@icloud.com
 
